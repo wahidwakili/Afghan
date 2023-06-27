@@ -1,4 +1,4 @@
-o"""
+"""
 Script open source by Mafia©
 Orignal code of TRT
 Github : Muzammil-404
