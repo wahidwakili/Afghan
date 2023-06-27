@@ -1,4 +1,4 @@
-"""
+o"""
 Script open source by Mafia©
 Orignal code of TRT
 Github : Muzammil-404
@@ -169,7 +169,7 @@ logo=("""\033[1;91m
 [~] Author   : 🌟Wahid 💥Wakili🌟
 [~] Facebook : 🌟Wahid 💥Wakili🌟
 [~] Tool     : 💥FREE😍
-[~] Version  : 1.0
+[~] Version  : 1.1
 \033[1;37m----------------------------------------------""")
 def linex():
 	print('\033[1;37m----------------------------------------------')
