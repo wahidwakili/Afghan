@@ -349,7 +349,7 @@ def pak():
 				elif pcs in ['7','07']:
 					passlist = [psx,ids,'Bangladesh','bangladesh','i love you','iloveyou','free fire','freefire']
 				elif pcs in ['8','08']:
-					passlist = [psx,ids,'afghan','afghan12345','afghan123','600700','afghanistan','afghan1122','500500','100200','10002000','900900','kabul123']
+					passlist = [psx,ids,'first6','last6','first8','۱۲۳۴۵۶']
 				if mthd in ['1','01']:
 					TRT.submit(trt1,ids,passlist)
 				if mthd in ['2','02']:
